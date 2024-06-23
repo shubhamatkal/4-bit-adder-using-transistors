@@ -3,6 +3,8 @@
 
 This project demonstrates the construction of a 4-bit adder using BC547 transistors, resistors, LEDs, and other components on breadboards. The adder takes two 4-bit binary numbers as input and provides a 5-bit binary result displayed using LEDs.
 
+### [demo video link](https://youtu.be/X30VRVgSusA?si=7kjyowYuODl_7c2p)
+
 ## Table of Contents
 - [Components](#components)
 - [Circuit Design](#circuit-design)
